@@ -26,4 +26,4 @@ Aqui vou postar meus estudos e práticas na área de TI e infraestrutura.
 ---
 
 ## 📫 Contato
-- Email: seuemail@exemplo.com
+- Email: almeidach02@gmail.com
