@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Carlos
 
-<!--
-**carlos-hferro/carlos-hferro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+🔧 Atuando com TI e infraestrutura (suporte, redes e sistemas)  
+📚 Buscando evolução em infraestrutura de TI e noções de desenvolvimento  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥️ Áreas de interesse
+- Suporte de TI
+- Redes de computadores
+- Infraestrutura de servidores
+- Windows/Linux básico
+- Git / GitHub (controle de versões)
+
+---
+
+## 🎯 Objetivo
+Buscando oportunidades de estágio na área de TI e infraestrutura
+
+---
+
+## 📂 Projetos
+Aqui vou postar meus estudos e práticas na área de TI e infraestrutura.
+
+---
+
+## 📫 Contato
+- Email: seuemail@exemplo.com
