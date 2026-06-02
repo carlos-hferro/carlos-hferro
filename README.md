@@ -1,29 +1,48 @@
-# 👋 Olá, eu sou o Carlos
+👋 Olá, eu sou o Carlos Henrique
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
-🔧 Atuando com TI e infraestrutura (suporte, redes e sistemas)  
-📚 Buscando evolução em infraestrutura de TI e noções de desenvolvimento  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNIPAR
 
----
+💻 Apaixonado por tecnologia, atuando e estudando nas áreas de Infraestrutura de TI, Redes e Desenvolvimento de Software.
 
-## 🖥️ Áreas de interesse
-- Suporte de TI
-- Redes de computadores
-- Infraestrutura de servidores
-- Windows/Linux básico
-- Git / GitHub (controle de versões)
+Atualmente desenvolvo projetos acadêmicos e pessoais utilizando tecnologias como JavaScript, TypeScript, React Native, NestJS, MySQL e Git/GitHub, além de possuir experiência com suporte técnico, manutenção de computadores e configuração de redes.
 
 ---
 
-## 🎯 Objetivo
-Buscando oportunidades de estágio na área de TI e infraestrutura
+🚀 Tecnologias e Ferramentas
+
+Desenvolvimento
+
+- JavaScript
+- TypeScript
+- React Native
+- NestJS
+- MySQL
+- Git e GitHub
+
+Infraestrutura
+
+- Suporte Técnico
+- Redes de Computadores
+- VLANs e Switches
+- Windows e Linux
+- Configuração de Equipamentos de Rede
 
 ---
 
-## 📂 Projetos
-Aqui vou postar meus estudos e práticas na área de TI e infraestrutura.
+🎯 Objetivo
+
+Busco oportunidades de estágio e posições júnior nas áreas de Desenvolvimento de Software, Infraestrutura de TI e Tecnologia, onde eu possa aplicar meus conhecimentos, aprender continuamente e contribuir para a criação de soluções inovadoras.
 
 ---
 
-## 📫 Contato
-- Email: almeidach02@gmail.com
+📂 Projetos
+
+Neste perfil compartilho projetos acadêmicos, estudos e aplicações desenvolvidas para aprimorar minhas habilidades em desenvolvimento de software e infraestrutura.
+
+---
+
+📫 Contato
+
+📧 Email: almeidach02@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/carlos-henrique-ferro-de-almeida-090b81321?utm_source=share_via&utm_content=profile&utm_medium=member_android
