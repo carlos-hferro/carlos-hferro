@@ -1,6 +1,6 @@
 👋 Olá, eu sou o Carlos Henrique
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na UNIPAR
+🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS) na UNIPAR
 
 💻 Apaixonado por tecnologia, atuando e estudando nas áreas de Infraestrutura de TI, Redes e Desenvolvimento de Software.
 
